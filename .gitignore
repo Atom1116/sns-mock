@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/py37/
+sns-backend/media/
+sns-backend/sns/settings.json
+sns-backend/db.sqlite3
