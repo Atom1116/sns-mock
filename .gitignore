@@ -130,6 +130,6 @@ dmypy.json
 
 
 /py37/
-sns-backend/media/
-sns-backend/sns/settings.json
+/sns-backend/media/
+sns-backend/sns/settings.py
 sns-backend/db.sqlite3
